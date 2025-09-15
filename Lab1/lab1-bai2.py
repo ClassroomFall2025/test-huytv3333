@@ -24,4 +24,14 @@ print("Diện tích =", dien_tich)
 # Chạy chương trình và kiểm tra kết quả đầu ra.
 # Sinh viên thực hiện bài làm mình ở đây
 
+print("\nBài tập 2: Chu vi và diện tích hình chữ nhật")
+# Nhập chiều dài và chiều rộng của hình chữ nhật
+chieu_dai = float(input("Nhập chiều dài: "))
+chieu_rong = float(input("Nhập chiều rộng: "))
+# Tính chu vi và diện tích
+chu_vi_hcn = 2 * (chieu_dai + chieu_rong)
+dien_tich_hcn = chieu_dai * chieu_rong
+# In kết quả
 
+print("test chạy duoc không")
+print("test push git")
