@@ -34,3 +34,4 @@ dien_tich_hcn = chieu_dai * chieu_rong
 # In kết quả
 
 print("test chạy duoc không")
+print("test push git")
