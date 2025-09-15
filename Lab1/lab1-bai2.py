@@ -32,3 +32,5 @@ chieu_rong = float(input("Nhập chiều rộng: "))
 chu_vi_hcn = 2 * (chieu_dai + chieu_rong)
 dien_tich_hcn = chieu_dai * chieu_rong
 # In kết quả
+
+print("test chạy duoc không")
